@@ -1,5 +1,7 @@
 ##Pricing Table
 
+https://gurkirangill.github.io/Pricing-Table/
+
 I used this project to learn about the power of flex-box and media queries to make a responsive layout for a Pricing Table
 
 The Web Page is responsive for a mobile and desktop display.
